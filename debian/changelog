@@ -1,3 +1,10 @@
+hamonikr-keyring (2022.10.07) taebaek; urgency=medium
+
+  * change release for HamoniKR 6.0
+  * Stop using apt-key
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 07 Oct 2022 15:36:37 +0900
+
 hamonikr-keyring (2021.04.08) public; urgency=medium
 
   * change release for HamoniKR 5.0

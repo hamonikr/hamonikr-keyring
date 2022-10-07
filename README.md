@@ -7,6 +7,11 @@ KEY ID(SHORT) : E42665B8
 
 # apt update 시 오류 : GPG 키를 찾을 수 없습니다. 09FA298A1E42665B8 가 나타나는 경우
 
+## HamoniKR 6.0
+```
+curl -fsSL https://repo.hamonikr.org/hamonikr-pkg.key | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/hamonikr-keyring.gpg
+```
+
 ## HamoniKR 5.0
 ```
 curl -sL https://pkg.hamonikr.org/add-hamonikr-5.0-public.apt | sudo -E bash -
