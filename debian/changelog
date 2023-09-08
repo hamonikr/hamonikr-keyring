@@ -1,3 +1,9 @@
+hamonikr-keyring (2023.09.08) kumkang; urgency=medium
+
+  * Release for Ubuntu 22.04
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 08 Sep 2023 12:29:43 +0900
+
 hamonikr-keyring (2023.07.10) kumkang; urgency=medium
 
   * Release for HamoniKR 7.0
